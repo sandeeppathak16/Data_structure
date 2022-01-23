@@ -1,3 +1,3 @@
 # Data_structure
 
-Object Oriented concept using Python
+data structure and algorithm concept 
